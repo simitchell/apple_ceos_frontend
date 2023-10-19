@@ -3,7 +3,8 @@ import { CeoList } from './components/CeoList'
 function App() {
   return (
     <>
-    <h1>henlo</h1>
+    <h1>Apple CEO's</h1>
+    <h2>*this is fictional*</h2>
       <CeoList />
     </>
   )
